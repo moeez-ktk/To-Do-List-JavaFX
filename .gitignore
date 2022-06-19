@@ -1,0 +1,16 @@
+.idea
+.settings
+.vscode
+.project
+data.txt
+historyData.txt
+To_Do_List_History.txt
+To_Do_List.txt
+nbactions.xml
+target
+javax.mail.jar
+styles
+fxml
+images
+mycompany
+to-do_icon.png
